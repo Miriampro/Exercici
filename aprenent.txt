@@ -1,1 +1,3 @@
 Estic aprenent a treballar amb git i github
+
+Ara torno a la master i afegeixo aquesta frase per veure els canvis
